@@ -1,4 +1,4 @@
-/*function sum() {
+function sum() {
     let res = 0;
 
     return function(x) {
@@ -11,7 +11,7 @@ let result = sum();
 
 console.log(result(2));
 console.log(result(3));
-console.log(result(4));*/
+console.log(result(4));
 
 
 
